@@ -1,0 +1,4 @@
+#ifndef SOURCELOCATION_P_H
+#define SOURCELOCATION_P_H
+
+#endif // SOURCELOCATION_P_H
